@@ -1,0 +1,12 @@
+.teams {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.team {
+    border: 1px solid black;
+    margin: 1rem;
+    padding: .5rem;
+
+}
