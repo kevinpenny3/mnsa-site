@@ -8,10 +8,10 @@ export default () => (
     <>
         <Route render={() => {
             return (
-                <>
+                <div className="pageLayout">
                     <Route render={props => <NavBar {...props} />} />
                     <Route render={props => <ApplicationViews {...props} />} />
-                </>
+                </div>
             )
         }} />
     </>

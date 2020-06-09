@@ -4,7 +4,7 @@ import "./NavBar.css"
 
 export default (props) => {
     return (
-        <div className="navbar">
+        <div className="sidebar">
             <ul className="navbarList">
                 <li className="navbar__item">
                     <Link className="navbar__link" to="/">Home</Link>

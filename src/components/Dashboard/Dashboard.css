@@ -1,3 +1,17 @@
 .container--dashboard{
-    background-color: lightblue;
+    text-align: center;
+}
+
+.announcements {
+    background-color: rgb(243, 243, 243);
+    padding: 1rem;
+    border-radius: .3rem;
+}
+
+hr{
+    border-top: 1px solid rgb(158, 40, 40);
+}
+
+.announcementInfo{
+    margin-bottom: 3rem;
 }
